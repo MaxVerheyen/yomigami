@@ -1,2 +1,2 @@
-https://maxverheyen.github.io/markdown-warmup-html/Restaurant/index.html
-# yomigami
+https://maxverheyen.github.io/yomigami/index.html
+# Yomigami
