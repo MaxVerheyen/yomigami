@@ -1,2 +1,2 @@
-https://maxverheyen.github.io/yomigami/index.html
+https://maxverheyen.github.io/yomigami
 # Yomigami
